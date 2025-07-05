@@ -11,6 +11,7 @@ Puller.jar
 # Package Files #
 *.zip
 *.rar
+*.sql
 
 ### HASP CNS Tool Server ###
 logs/
