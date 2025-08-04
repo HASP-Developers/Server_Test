@@ -8,6 +8,8 @@ pull.cfg
 pull.cmd
 Puller.jar
 
+settings.cfg
+
 # Package Files #
 *.zip
 *.rar
